@@ -14,3 +14,4 @@ structlog==24.1.0
 tenacity==8.3.0
 cryptography==42.0.5
 google-cloud-firestore==2.16.0
+alembic==1.13.1
