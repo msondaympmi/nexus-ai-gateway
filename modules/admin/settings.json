@@ -1,0 +1,9 @@
+{
+  "auth_cache_ttl_seconds": 300,
+  "rate_limit_cache_ttl_seconds": 600,
+  "default_requests_per_minute": 60,
+  "default_requests_per_day": 10000,
+  "token_hourly_limit": 10000000,
+  "default_requests_per_hour": 200,
+  "default_max_tokens_per_day": 2000000
+}

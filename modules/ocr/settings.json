@@ -1,0 +1,11 @@
+{
+  "default_model": "gemini-1.5-flash",
+  "temperature": 0.1,
+  "confidence_default": 0.99,
+  "supported_file_types": [
+    "image/jpeg",
+    "image/png",
+    "application/pdf"
+  ],
+  "max_file_size_bytes": 10485760
+}

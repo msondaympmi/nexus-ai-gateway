@@ -1,0 +1,16 @@
+{
+  "default_model": "gemini-1.5-pro",
+  "clamped_max_tokens": 4096,
+  "default_temperature": 0.7,
+  "max_messages_limit": 50,
+  "pricing": {
+    "gemini-1.5-pro": {
+      "input_1m": 1.25,
+      "output_1m": 5.00
+    },
+    "gemini-1.5-flash": {
+      "input_1m": 0.075,
+      "output_1m": 0.30
+    }
+  }
+}

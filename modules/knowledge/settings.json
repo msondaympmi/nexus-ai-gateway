@@ -1,0 +1,7 @@
+{
+  "default_chunk_size": 1000,
+  "default_chunk_overlap": 200,
+  "embedding_model": "text-embedding-004",
+  "firestore_collection": "nexus_knowledge_base",
+  "embedding_dimensions": 768
+}

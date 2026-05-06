@@ -1,0 +1,6 @@
+{
+  "default_model": "gemini-1.5-flash",
+  "temperature": 0.3,
+  "max_character_length": 100000,
+  "default_length": "medium"
+}
